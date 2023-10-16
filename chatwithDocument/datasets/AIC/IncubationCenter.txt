@@ -1,0 +1,41 @@
+Incubation Centre (AIC IIIT Kottayam)
+
+Incubation Centre, will address the existing problems of entrepreneurs by providing them sufficient input in terms of knowledge, guidance, mentoring, training, and demonstrations. In addition, the space and facility will be provided to them. The centre will incubate customers to increase the utility of technology relating to IoT and Cloud solutions for societal benefits.
+
+The incubation centre, AIC IIITKottayam Foundation, is a non-profit Sec.8 company. It is sanctioned under the Atal Innovation Mission scheme of Govt. of India. The centre will address the existing problems of entrepreneurs by providing them sufficient input in terms of knowledge, guidance, mentoring, training, and demonstrations. In addition, the space and facility will be provided to them. The centre will incubate customers to increase the utility of technology relating to IoT and Cloud solutions for societal benefits.
+
+Incubates at AIC-IIITKottayam will get opportunities to create their prototype and implement them after a thorough market analysis is achieved from their end. The product prototype could be initially designed with a 3D printer (if required); the software prototype could be designed at the computing space available at AIC-IIITKottayam; and, the real implementation could be carried out at the hardware level.
+
+In addition, the software services, including platform services, will be designed considering the end-to-end holistic picture of the product in the mind. Later, the models will be exhibited jointly with the sales department of AIC-IIITKottayam.
+
+
+About Host Institute:-
+
+AIC-IIITKottayam is hosted by the Indian Institute of Information Technology Kottayam (IIITKottayam). In general, IIITs are declared as Institutes of national importance and organized as a conglomerate of researchers and students with administrative and academic bodies to guide itself. Presently IIIT-Kottayam is managed by Prof. Dr. Rajiv V. Dharaskar, Director-IIITKottayam, and Dr. M. Radhakrishnan, Registrar, IIITKottayam, Prof. P. Mohanan (Prof. Incharge, IIIT-Kottayam). For more details about the host institute, please visit here .
+
+Vision - Mission of AIC-IIIT kottayam
+The vision of AIC-IIITKottayam is stated as follows:
+To develop an international business hub for entrepreneurs by providing strong technical innovations that improves the societies/communities at large.
+
+The mission of AIC-IIITKottayam is stated as follows:
+
+To provide technical support and research thoughts to young entrepreneurial minds of India.
+To provide a platform for accessing international business centres from our region.
+To motivate young researchers and entrepreneurs to help our society with business thoughts.
+
+
+Research Objectives of AIC-IIITKottayam:-
+The main focus of AIC-IIITKottayam would be to develop societal applications using IoT cloud technologies or similar high-end technologies.
+
+AIC-IIITKottayam Workbench:-
+AIC-IIITKottayam workbench provides the following support to the incubates:
+
+Market analysis
+Consultation
+3D printing - Hardware model realization
+Feasibility analysis
+Technical Advise
+Implementation support of IoT Cloud services
+Verification and Automation analysis
+Business and marketing
+

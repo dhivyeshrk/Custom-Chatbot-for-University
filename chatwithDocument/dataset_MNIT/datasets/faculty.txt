@@ -1,0 +1,34 @@
+Dr. Namita Mittal is working as Associate Professor in Department of Computer Science and Engineering. She is a recipient of Career Award for Young Teachers (CAYT) by AICTE. Her Current research areas are Data Science, Information Retrieval, Data Mining and Natural Language Processing. She has published several research papers in reputed international conferences and journals, and two books in Springer Publication. She is also a member of review committees for Refereed journals/ conferences. She is Senior Member of IEEE, Member of ACM, CCICI, and SCRS. She has conducted various FDPs/Conferences/Workshops like Ph.D. Colloquium FIRE 2017, GIAN Course on Advances on Data and Web Analytics 2017, International Workshop on Text analytics and Retrieval (WI 2018), WIRe (FIRE Track 2020) and GIAN on AI and Information Retrieval 2022. She is guiding 9 PhD students currently and 8 PhD have been awarded under her guidance. One PhD scholar is receiving prestigious PMRF scholarship.
+
+Prof. Girdhari Singh
+Tanvi Chawla on A Scalable Framework on Analyzing Big Semantic Web Data Year - 2022
+Ved Mitra on Improved Parallel Architectures for Optimizing Performance in SoCs Year - 2022
+Monu Verma on Facial Expression Analysis for Human Emotion Recognition Year - 2021
+Anita Chaudhary on QoS-Aware Energy Efficient Resource Provisioning and Scheduling in cloud Computing Environment Year - 2020
+Mithlesh Arya on Cervical Cancer Detection using PapSmear Images by Machine learning techniques Year - 2020
+Rajat Goel on SecREAD:Security-Aware Requirements Elicitation, Assessment and Design Methodology Year - 2018
+Vipin Pal on Framework for Energy Efficient Clustering Approach for Wireless Sensor Networks Year - 2016
+Mukesh Kumar Gupta on Detection of Security Vulnerabilities using Static Analysis and Machine Learning Techniques Year - 2016
+Ongoing
+Pawankumar Balkishan Lahoti on Bilingual/Multilingual Question Answering system using Deep Learning Year - 2020
+Virendra Kumar Meghwal on Image Captioning using Deep learning Year - 2018
+Saurabh Ranjan Srivastava on Profile Based Event Forecasting by Itemset Mining & Analysis Year - 2017
+
+Prof. Vijay Laxmi
+Member of IEEE
+Member of Indian Society for Technical Education
+Member of Association for Computing Machinery (ACM)
+Awarded
+Vineeta Jain (2015RCP9051) on Analysis and Detection of Privacy Leaks in Android Year - 2020
+Gaurav Singal on QoS Aware Multi Cast Routing Protocols in MANETs Year - 2017
+Manoj Kumar on Design of Highly Adaptive and Fault Tolerant Routing for Networks on Chip Year - 2017
+Anil Saini on Attacks and Mitigation in Web Browsers Year - 2016
+Parvez Faruki on Techniques for Analysis and Detection of Android Malware Year - 2016
+Rimpy on Resilient Routing Implementation for  2 D Mesh Networks on Chip Year - 2015
+Smita Naval on Behaviour based Dynamic Malware Detection Techniques Year - 2015
+Chhagan Lal on Quality-of-Service Driven Routing for Video Streaming in Mobile Ad Hoc Networks Year - 2014
+Meenakshi Tripathi on Energy Efficient and Secure Routing for Clustered Wireless Sensor Networks Year - 2014
+Preety Singh on Extraction of Prominent Articulators For Visual Speech Recognition Year - 2013
+Reena Gunjan on Robust Watermarking in Digital Images Year - 2013
+
+

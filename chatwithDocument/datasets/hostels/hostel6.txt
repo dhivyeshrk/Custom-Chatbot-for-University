@@ -1,0 +1,9 @@
+Hall of Residence VI - Nila Hostel
+1	Dr Murugan D
+	Assistant Warden	Contact No: +91 (0) 482-2202249, 9944256572	Email : murugand@iiitkottayam.ac.in
+2	Dr Jayakrushna Sahoo
+	Assistant Warden	Contact No: +91 (0) 482-2202164, 7872456553	Email: jsahoo@iiitkottayam.ac.in
+1	Dr Santhos Kumar
+	Assistant Warden	Contact No: +91 (0) 482-2202177, 8349529678	Email: santhos@iiitkottayam.ac.in
+4	Dr. Amit Kumar Roy
+	Assistant Warden	Contact No: +91 (0) 482-2202201, 9774822160	Email : amit@iiitkottayam.ac.in

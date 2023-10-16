@@ -1,0 +1,3 @@
+M.Tech. in Computer Science with specialization in Big Data and Machine Learning
+
+The curriculum covers big data analytics with a focus on machine learning. Special emphasis is given to the emerging ML technologies which enable decision-making, modelling, classification and prediction based on business intelligence. The students will be enabled to build big data solutions by participating in course project and related activities. The career prospects of students span from Data Science/ Data Engineering to Advanced Analytics

@@ -1,0 +1,101 @@
+1. **Dr. Rajiv V. Dharaskar** serves as the Director at IIIT Kottayam. He specializes in a wide range of areas including Digital Forensics (Image, Web, Mobile, Cloud, Networks, etc.), Cyber Security, Data Science, HCI, E-learning, NLP, and AI. Dr. Dharaskar holds a Ph.D. in Computers and an M.Tech. in Computers from IIT Dhanbad, along with an M.Phil. You can reach him at 0482-2202112 or via email at director@iiitkottayam.ac.in.
+
+2. **Prof P. Mohanan** takes on the role of Professor In-charge (Academics) at IIIT Kottayam. He is a former professor at NIT Surathkal and specializes in Advanced Internal Combustion Engines, Computer simulation of IC Engines, Fuels and combustion, Advanced heat Transfer, Alternative fuels and Bio-Diesel, Environmental Pollution Control, Energy systems, and Renewable energy. Prof Mohanan holds a Ph.D. from Indian Institute of Technology Delhi. For contact, you can get in touch with him at 0482-2202133 or through email at pic.academics@iiitkottayam.ac.in.
+
+3. **Dr. Shajulin Benedict** is a multi-faceted faculty member, serving as Faculty In-Charge (R&D and International Affairs), In-charge Atal Incubation Center NITI Aayog, and In-charge of the upcoming MSME Incubation Center. He specializes in Cloud Computing, IoT, Supercomputers, and Parallel Compilers. Dr. Benedict holds a Post Doc from TUM Germany and has experience as a Visiting Professor at TUM-Germany. You can reach him at +91 (0) 482-2202155 or via email at shajulin@iiitkottayam.ac.in.
+
+4. **Dr. Ebin Deni Raj** holds the position of Associate Dean (Academic Affairs) at IIIT Kottayam. He is an Assistant Professor with specializations in Responsible AI, Explainable Machine Learning, AI for Social Good, Fairness, Accountability and Transparency in AI, Machine Learning, Data Science, and Social Computing. Dr. Raj completed his Ph.D. from VIT (An Institute of Eminence Status by GOI) and is recognized as a Reviewer/Editor of Prestigious Journals. He is also a Distinguished Speaker in Data Science by ACM. For contact, you can get in touch with him at +91 (0) 482-2202195 or through email at ebindeniraj@iiitkottayam.ac.in.
+
+5. **Dr. Bakkyaraj T** takes on multiple roles including HOD (Computational Science & Humanities), Warden, and Faculty In-Charge (Students Affairs) at IIIT Kottayam. He specializes in Lie Group Analysis of Nonlinear Differential Equations, Representation Theory and Invariant Theory, as well as Data Science. Dr. Bakkyaraj completed Post Docs from ICP, University of Stuttgart, Germany, and Institute of Mathematical Sciences Chennai. He was also a former faculty member at NIT Puducherry. For contact, you can reach him at +91 (0) 482-2202160 or through email at bakkyaraj@iiitkottayam.ac.in.
+
+Certainly! Here is the information about each faculty member at IIIT Kottayam presented in a paragraphical format:
+
+1. **Dr. Jayakrushna Sahoo** holds the position of Head of Department (HOD) for Computer Science & Engineering, along with being an Assistant Professor. His areas of specialization include Data Mining, Machine Learning, and Cryptography (Digital Water Marking). Dr. Sahoo earned his Ph.D. from IIT-Kharagpur and an MTech from IIIT-B. He has also served as a former faculty member at NIT Jamshedpur. You can contact him at +91 (0) 482-2202164 or via email at jsahoo@iiitkottayam.ac.in.
+
+2. **Dr. Kala S** is an Assistant Professor at IIIT Kottayam. Her areas of expertise encompass Reconfigurable Architectures, SoC Design Methodologies, FPGA and ASIC, VLSI and Embedded systems, Deep Learning Architectures, EDA and CAD tools, Secure Processor Architectures, and Edge Computing. Dr. Kala holds a Ph.D. from CUSAT and a Master of Science (Engineering) By Research from the Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science (IISc) Bengaluru. She has also been a Woman Scientist Research Fellow and has held various fellowships. You can get in touch with her at +91 (0) 482-2202167 or through email at kala@iiitkottayam.ac.in.
+
+3. **Dr. Panchami V** serves as the Head of Department (HOD) for CSE-Cyber Security and is also the Faculty In-Charge of the Cultural Club. Additionally, she holds the position of an Assistant Professor. Her areas of specialization include Cryptography, Data Security, Blockchain Technology, and Lightweight Cryptography (IoT). Dr. Panchami earned her Ph.D. from Anna University (NIRF Ranking: 8) and is also responsible for the Proposed NextGen DST Incubation Center. You can reach out to her at +91 (0) 482-2202151 or via email at panchamam036@iiitkottayam.ac.in.
+
+4. **Dr. P. Victer Paul** holds the role of Faculty In-Charge for the Coding Club at IIIT Kottayam, in addition to being an Assistant Professor. His specializations encompass Data Analytics, Cloud Computing, Computer Networks, Web Technologies, and Bio-Inspired Optimization. Dr. Paul earned both his Ph.D. and M.Tech from Pondicherry Central University (NIRF Ranking: 48) and is a DST INSPIRE Fellowship Holder. For contact, you can get in touch with him at +91 (0) 482-2202165 or through email at victerpaul@iiitkottayam.ac.in.
+
+5. **Dr. Divya Sindhu Lekha** holds the positions of Faculty In-Charge for the PG Programme and Faculty In-Charge for the ACM Student Branch. Additionally, she serves as an Assistant Professor. Her areas of specialization include Graph Theory, Network Science, and Algorithms. Dr. Lekha completed her Post Doc at CUSAT and earned her Ph.D. from the University of Kerala. She has been awarded the National Post-Doctoral Fellowship by SERB, DST, GOI, and has previously worked at HCL Technologies Ltd. You can contact her at +91 (0) 482-2202161 or via email at divyaslekha@iiitkottayam.ac.in.
+
+6. **Dr. J. V. Bibal Benifa** takes on the role of Faculty In-Charge for Student Scholarship at IIIT Kottayam, along with being an Assistant Professor. His areas of expertise lie in Cloud Computing and Security, Big Data Analytics, Image Processing, and Machine Learning. Dr. Benifa holds a Ph.D. from Anna University (NIRF Ranking: 8) and has previous experience as a faculty member in the PG Department of Computer Science & Engineering at Anna University. You can reach out to him at +91 (0) 482-2202163 or via email at benifa@iiitkottayam.ac.in.
+
+7. **Dr. Arun Cyril Jose** holds the position of Institute Chief Vigilance Officer (CVO) at IIIT Kottayam, in addition to being an Assistant Professor. His areas of specialization include Smart Home Security, Device Fingerprinting, Logical Sensing from a Security Point of View, Behaviour Prediction from a Security Point of View, Different Surveillance Techniques, Security Based Social Engineering, and Completely Anonymous Communication Over the Internet. Dr. Jose earned his Ph.D. from the University of Pretoria, South Africa, and an MS from Coventry University UK. He is also a Reviewer/Editor of Prestigious Journals. You can get in touch with him at 0482-2202159 or through email at aruncyril@iiitkottayam.ac.in.
+
+Certainly! Here is the information about each faculty member at IIIT Kottayam presented in a paragraphical format:
+
+1. **Dr. Amit Kumar Roy** is an Assistant Professor specializing in Cryptography, Network Security, Information Security, Cyber Security, Wireless Security, and Intrusion Detection Systems. He earned his Ph.D. from Assam University and was a former faculty member at NIT Mizoram. You can contact him at +91 (0) 482-2202201 or via email at amit@iiitkottayam.ac.in.
+
+2. **Dr. John Paul Martin** is an Assistant Professor with specializations in Edge Computing, Fog Computing, Cloud Computing, IoT, and Blockchain. He holds a Ph.D. from NIT Suratkal and was a former Knowledge Associate at R&D Center for Development and Advanced Computing (CDAC) Noida. You can reach out to him at +91 (0) 482-2202202 or via email at johnpaul@iiitkottayam.ac.in.
+
+3. **Dr. Cinu C Kiliroor** is an Assistant Professor specializing in Machine Learning, Social Network Analysis, Data Analytics, Machine Learning and Knowledge Discovery, and Data Science Applications. She holds a Ph.D. from Anna University. For contact, you can get in touch with her at +91 (0) 482-2202204 or via email at cinu@iiitkottayam.ac.in.
+
+4. **Dr. Vengadeswaran S** serves as an Assistant Professor and holds the positions of Associate Faculty In-Charge for UG (Academics) and Faculty In-Charge for HPC Managing & Allocation. His specializations encompass Big Data, Distributed Databases, Large Scale Data Processing Frameworks, Machine Learning, Software Engineering, and Data Visualization. Dr. Vengadeswaran holds a Ph.D. from NIT Trichy and an M.Tech. from College of Engineering, Guindy (CEG). He was also a former faculty member at NIT Puducherry. For contact, you can get in touch with him at +91 (0) 482-2202206 or via email at vengadesh@iiitkottayam.ac.in.
+
+5. **Dr. Mirza Ghalib** is an Assistant Professor with expertise in Data Structures and Algorithms, Theory of Computation, and Theoretical Computer Science. He holds a Ph.D. from IIT Guwahati and an MTech from IIT Guwahati. You can reach out to him at +91 (0) 482-2202207 or via email at mirza.baig@iiitkottayam.ac.in.
+
+6. **Dr. Manu Madhavan** is an Assistant Professor and serves as the Faculty In-Charge for Library and Technology Enabled Learning Resources (TELR) at IIIT Kottayam. His specializations encompass Natural Language Processing, Bioinformatics, Machine Learning, Computational Linguistics, Deep Learning, and Graph Neural Networks. Dr. Manu Madhavan holds a Ph.D. from NIT Calicut. For contact, you can reach him at +91 (0) 482-2202208 or via email at manum@iiitkottayam.ac.in.
+
+7. **Dr. Nandini J. Warrier** is an Assistant Professor and also holds the position of Faculty In-Charge for the IEEE Student Branch at IIIT Kottayam. Her areas of specialization include Graph Theory, Operating Systems, and Data Structures. Dr. Warrier earned her Ph.D. from NIT Calicut. You can contact her at +91 (0) 482-2202209 or via email at nandinijw@iiitkottayam.ac.in.
+
+8. **Dr. Selvi C** is an Assistant Professor with expertise in Recommender Systems and Transfer Learning, Data Science and Machine Learning, Computer Vision and Image Processing, Natural Language Processing, Predictive Analytics, and Deep Learning. She holds a Ph.D. from NIT Trichy. You can get in touch with her at +91 (0) 482-2202212 or through email at selvic@iiitkottayam.ac.in.
+
+9. **Dr. Goutam Mali** is an Assistant Professor specializing in IoT, Wireless Sensor Network, Game Theory, Security and Privacy, Intelligent Sensing and Decision Making, and Machine Learning. He holds a Ph.D. from IIT Kharagpur and was a former faculty member at IIIT Ranchi. You can contact him at +91 (0) 482-2202214 or via email at goutam@iiitkottayam.ac.in.
+
+10. **Dr. Sivaiah Bellamkonda** is an Assistant Professor and holds the position of Faculty In-Charge for the Institute Website at IIIT Kottayam. His areas of expertise include Computer Vision, Machine Learning, and Image Processing. Dr. Bellamkonda earned his Ph.D. from NIT Tiruch
+
+Certainly! Here is the information about each faculty member at IIIT Kottayam presented in a paragraphical format:
+
+1. **Dr. Sivaiah Bellamkonda** is an Assistant Professor and serves as the Faculty In-Charge for the Institute Website at IIIT Kottayam. His areas of expertise include Computer Vision, Machine Learning, and Image Processing. Dr. Bellamkonda earned his Ph.D. from NIT Tiruchirappalli. You can contact him at +91 (0) 482-2202170 or via email at sivaiah@iiitkottayam.ac.in.
+
+2. **Dr. Suchithra M S** is an Assistant Professor and holds the position of Faculty In-Charge for Institute Internship at IIIT Kottayam. Her specializations encompass Data Mining, Machine Learning, and Soft Computing. Dr. Suchithra earned her Ph.D. from Amrita Vishwa Vidhyapeetham (An Institute of Eminence Status by GOI). For contact, you can get in touch with her at +91 (0) 482-2202169 or via email at suchithra@iiitkottayam.ac.in.
+
+3. **Dr. Ananth A** serves as the HOD for Electronics & Communication Engineering and is also the Faculty In-Charge for Physical Education at IIIT Kottayam. He is an Assistant Professor specializing in Wireless Communications, Cooperative Communications, MIMO Communication Systems, and Index Modulation OFDM Systems. Dr. Ananth is a Post Doctoral Fellow from the University of Saskatchewan, Saskatoon, Canada. For contact, you can get in touch with him at +91 (0) 482-2202176 or via email at ananth@iiitkottayam.ac.in.
+
+4. **Dr. Santhos Kumar** is an Assistant Professor specializing in Pattern Classification and Image Segmentation and Classification. He earned his Ph.D. from IIITD Jabalpur. You can contact him at +91 (0) 482-2202177 or via email at santhos@iiitkottayam.ac.in.
+
+5. **Dr. A Balu** is an Assistant Professor with expertise in Applied Cryptography, Pairing Based Cryptography, Attribute Based Encryption, and Zero-Knowledge Protocol (ZK-SNARKs). He holds a Ph.D. from Alagappa University, Karaikudi, and was a former Faculty member at NIT Tiruchirappalli and NIT Calicut. You can reach out to him at +91 (0) 482-2202182 or via email at balu@iiitkottayam.ac.in.
+
+6. **Dr. Lidiya Lilly Thampi** is an Assistant Professor with expertise in Machine Learning, Underwater Imaging, and Medical Image Processing. She holds a Post Doc from CUSAT and a Ph.D. from Cochin University of Science & Technology. For contact, you can reach her at +91 (0) 482-2202178 or via email at lidiya@iiitkottayam.ac.in.
+
+7. **Dr. Lavanya Settipalli** is an Assistant Professor specializing in Big Data Analytics, Natural Language Processing, Image Processing, and Blockchain Technologies. She earned her Ph.D. from the National Institute of Technology, Tiruchirappalli. You can get in touch with her at +91 (0) 482-2202189 or through email at lavanya@iiitkottayam.ac.in.
+
+8. **Dr. Susheel Kumar Joshi** is an Assistant Professor with specializations in Swarm Intelligence, Nature-inspired Optimization Techniques, Evolutionary Computation, Optimization Algorithms, and Soft Computing. He earned his Ph.D. (Maths) from South Asian University (An international university established by SAARC countries) New Delhi and an M.Tech. (System Analysis and Computer Applications) from NIT Surathkal. For contact, you can get in touch with him at +91 (0) 482-2202185 or via email at joshi@iiitkottayam.ac.in.
+
+9. **Dr. Bhanu Chander** is an Assistant Professor specializing in Cyber Security, Network Security, IoT Security, and AI & Security. He holds a Ph.D. from Pondicherry University (A Central University) and completed his M. Tech (C.S.E) at the Central University of Rajasthan. You can contact him at +91 (0) 482-2202187 or via email at bhanu@iiitkottayam.ac.in.
+
+10. **Dr. E. Silambarasan** is an Assistant Professor with expertise in Cloud Data Security, Security Protocols, Cryptography, and Web Mining. He earned his Ph.D. from NIT Trichy. For contact, you can reach him at +91 (0) 482-2202179 or via email at silambarasan@iiitkottayam.ac.in.
+
+11. **Dr. Mathew.C.D** serves as the Faculty and Training and Placement Officer at IIIT Kottayam. He is an Assistant Professor with specializations in Management Studies. For contact, you can get in touch with him at +91 (0) 482-2202144 or via email at mathewcd@iiitkottayam.ac.in.
+
+Certainly! Here is the information about each faculty member at IIIT Kottayam presented in a paragraphical format:
+
+1. **Dr. Gayathri G.R.** serves as the Faculty In-Charge for the Cultural Club and is an Assistant Professor at IIIT Kottayam. Her areas of expertise include Critical Disability Studies, Film and Cultural Studies, Professional Communication, and English Language Teaching. She holds a Ph.D. from the Indian Institute of Space Science and Technology and an M.A from the University of Hyderabad. You can contact her at +91 (0) 482-2202184 or via email at gayathri@iiitkottayam.ac.in.
+
+2. **Dr. Josit Mariya** is the Nodal Officer for AISHE and an Assistant Professor at IIIT Kottayam. He specializes in Proletarian Theory, Cultural Hegemony, Film Studies, Sociological Studies, and Communication Skills. Dr. Mariya earned his Ph.D. from M.G University, Kottayam. You can reach him at +91 (0) 482-2202203 or via email at jositmariya@iiitkottayam.ac.in.
+
+3. **Dr. Della Thomas** is an Assistant Professor at IIIT Kottayam, with expertise in Ocean Optics, Lasers, and Spectroscopy. She holds a Ph.D. from IIT Madras. For contact, you can reach her at +91 (0) 482-2202183 or via email at della@iiitkottayam.ac.in.
+
+4. **Dr. Venkatesh S** is the Faculty In-Charge for Trendles Club and an Assistant Professor at IIIT Kottayam. His areas of expertise include Nanotechnology, Materials Science (Polymers, composites, metal oxides etc.), and Fabrication of Nanomaterials. Dr. Venkatesh holds a Ph.D. from Anna University, Chennai. For contact, you can reach him at +91 (0) 482-2202205 or via email at svenkatesh@iiitkottayam.ac.in.
+
+5. **Dr. Rajesh G** is an Assistant Professor specializing in Data modeling in Wireless Sensor Networks, Tensor decomposition algorithms, and Incremental learning. He earned his Ph.D. from the National Institute of Technology Karnataka, Surathkal. You can contact him at +91 (0) 482-2202223 or via email at grajesh@iiitkottayam.ac.in.
+
+6. **Dr. Minu A Pillai** serves as the Associate Faculty In-Charge for Ph.D (Academics) and is an Assistant Professor at IIIT Kottayam. Her specializations encompass Acoustic Energy Harvesting, Piezoelectric Energy Harvesting, and Acoustic Source Localization. Dr. Pillai holds a Post Doc from CUSAT, and Ph.D. and MTech from NIT Trichy. For contact, you can reach her at +91 (0) 482-2202218 or via email at minupillai@iiitkottayam.ac.in.
+
+7. **Dr. Milind Thomas Themalil** is an Assistant Professor with expertise in RF & Microwave, MIMO for 5G and beyond networks, and Microstrip antenna design for small satellite communication. He holds a Post-Doc from XLIM, University of Limoges, France, and earned his Ph.D. from Jadavpur University, Kolkata. You can contact him at +91 (0) 482-2202221 or via email at milind@iiitkottayam.ac.in.
+
+8. **Dr. Asha Sebastian** is an Assistant Professor with expertise in Geometric function theory, Dynamical Systems, Data Science, and Quantum Computing. She holds a Ph.D. from the National Institute of Technology, Tiruchirappalli. You can get in touch with her at +91 (0) 482-2202248 or through email at asha@iiitkottayam.ac.in.
+
+9. **Dr. Murugan D** is an Assistant Professor specializing in Fluid Mechanics, Bio Fluid Mechanics, Operation Research, and Data Science. He earned his Ph.D. from the National Institute of Technology, Tiruchirappalli. For contact, you can reach him at +91 (0) 482-2202249 or via email at murugand@iiitkottayam.ac.in.
+
+10. **Dr. Abin Oommen Philip** is an Assistant Professor with expertise in Digital Forensics and Crime investigation, Pattern of Life Analysis for Crime Investigation, and more. He holds a Ph.D. from VIT Vellore. You can get in touch with him at +91 (0) 482-2202253 or through email at abinphilip@iiitkottayam.ac.in.
+
+11. **Ms. Suriyapriya K** is an Assistant Professor with expertise in Fuzzy Decision-making problems, Neural Computing, and Fuzzy Optimization. She holds a Ph.D. from the National Institute of Technology, Tiruchirappalli. You can get in touch with her at +91 (0) 482-2202254 or through email at suriyapriya@iiitkottayam.ac.in.
+
+12. **Dr. Riyasudheen T K** is an Assistant Professor specializing in Computational Mathematics, Computational Finance, Fractional Differential Equations, and Artificial Neural Network (ANN) methods for PDEs. He holds a Ph.D. from the National Institute of Technology Calicut. You can get in touch with him at +91 (0) 482-2202256 or through email at riyasudheen@iiitkottayam.ac.in.
+
+13. **Dr. Sujamol S** is an Assistant Professor with expertise in Machine Learning, Soft Computing, Computational Biology, and Bioinformatics. She holds a Ph.D. from Amrita Vishwa Vidyapeetham University. You can get in touch with her at +91 (0) 482-2202257 or through email at sujamol@iiitkottayam.ac.in.
+
+14.

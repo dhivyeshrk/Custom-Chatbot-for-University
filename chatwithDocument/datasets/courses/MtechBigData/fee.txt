@@ -1,0 +1,12 @@
+
+The following are typical tuition fee figures to be paid by the students per semester for M.Tech in CSE with specialization in Big Data and Machine Learning.
+
+	
+Semester1	Credits9	Rs1,08,000/-
+Semester2	Credits7	Rs84,000/-
+Semester3	Credits10	Rs1,20,000/-
+
+Semester4	Credits6	Rs72,000/-
+Semester5	Credits14	Rs70,000/-
+Semester6	Credits14	Rs70,000/-
+Total	    Credits60  Rs5,24,000/-

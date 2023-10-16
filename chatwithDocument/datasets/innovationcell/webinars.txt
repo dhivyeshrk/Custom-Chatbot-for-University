@@ -1,0 +1,326 @@
+IIIT Kottayam Faculty Development Programmes/Workshops/Webinar
+
+ 	Natural Language Processing- Foundations and Beyond: A Comprehensive Programme(N-FAB)
+    FDP & Workshop	
+    Dr. Manu Madhavan, Dr. John Paul Martin and Dr. Christina Terese Joseph	
+    August 7th - August 12th,2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpBrochure_NFAB_F.pdf"
+
+
+ 	Five-Day Workshop cum FDP on Data Science with Complex Networks	Workshop cum FDP
+    Dr. Divya Sindhu Lekha,Dr. Dhanyamol M V,Dr. Rubell Marion Lincy G and Dr. Christina Terese Joseph	
+    July 24th – July 28th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpData%20science%20and%20network%20science%20brochure%20July%202023.pdf"
+
+ 	One Day Hybrid Workshop - YOU'RE HIRED !	
+    Workshop	
+    Dr. Josit Mariya	
+    July 20 th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpYou're%20Hired.pdf"
+
+ 	Nanodevices for wearable electronics 
+    FDP cum workshop	
+    Dr. S.Venkatesh and Dr. Della Thomas	
+    July 17th – July 21st, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpNanodevices%20for%20wearable%20electronics-1.pdf"
+
+ 	Five Days National Level Workshop on Indian Knowledge System and Engineering Research(SIKER 2023)	
+    Workshop	
+    Dr. Manu Madhavan,Dr. Nandini J. Warrier & Dr. Selvi C	
+    July 17th – July 21st, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/events/SIKER2023.jpeg"
+
+ 	Joint Certification Course on AI with specialization in Reinforcement Learning	Certification Course
+    Dr. Rubell Marion Lincy G & Dr. Suchithra M S	
+    July 3rd – July 14th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpCertification%20Course%20on%20RL%20-%20FinAIQu%20Research.pdf"
+
+ 	Arduino Programming for IoT Applications
+    Workshop	
+    Dr.Gangireddy Narendra Kumar Reddy	
+    June 17-18, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpArduino%20workshop%20brochure_June_17-18_2023.pdf"
+
+ 	Summit'23 @IIIT Kottayam	
+    Summit'23	
+    Dr. Cinu C Kiliroor,Dr. Lidiya Lilly Thampi & Dr. Jayakrushna Sahoo	
+    June 10th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/events/fdpsummit23.jpg"
+
+ 	NextGen Computing Paradigms for Big Data Application	
+    FDP & Workshop	
+    Dr.John Paul Martin,Dr. Nilotpal Chakraborty & Dr. Manu Madhavan	
+    June 5th – June 9th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/events/fdpsummit23.jpg"
+
+ 	Advanced Cryptography and Digital Forensics	
+    Workshop	
+    Dr. E. Silambarasan & Dr. Lavanya Settipalli	
+    June 5th – June 9th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpAdvanced%20Cryptography%20and%20Digital%20Forensics.pdf"
+
+    Technology and Vocation in the Information Age: A Sociological Perspective
+    Webinar
+    Dr. Josit Mariya
+    June 2nd 2023
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/events/webinarInvitation.png"
+
+ 	Optimization Techniques for AI/ML/DS Models
+    FDP & Workshop
+    Dr. T. Bakkyaraj,Dr. Susheel Kumar Joshi & Dr. Dhanyamol M V	
+    May 22th – May 26th, 2023
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpOptimization%20Tech%20for%20AI.pdf"
+
+ 	Python Programming:A Communication Engineering Perspective	Workshop
+    Dr. Rajesh G	
+    May 15th – May 17th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpPython%20Programming-workshop.pdf"
+
+
+ 	Math,Coding and AI	
+    Summer Camp for Students
+    Dr. Rubell Marion Lincy G	
+    May 9th – May 13th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/events/5-days%20Summer%20Camp%20for%20Students.png"
+
+
+ 	Integrated Circuits and Systems for AI
+    FDP & Workshop
+    Dr. Kala S
+    May 8th – May 12th, 2023	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpdata.pdf"
+
+
+ 	Data Science
+    FDP	Dr. J. V. Bibal Benifa
+    July 28th – August 1st, 2021
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpdata.pdf"
+
+
+ 	Quantum Computing
+    FDP	Dr. Kala S
+    12-16 July, 2021
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/fdpquantum.pdf"
+
+
+ 	Challenges in Industrial IoT & ICS Security
+    Webinar
+    Dr. Shajulin Benedict & Mr. Sumit Kumar Saurav
+    7th Aug 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/Webinar27.pdf"
+
+
+ 	Remote Sensing and its Applications
+	Webinar
+    Dr. Shajulin Benedict & Mr. Basil C Sunny
+	5th Aug 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/Webinar26.pdf"
+
+ 	How Small Companies are Making a Big Difference in the Cloud & Emerging	Webinar
+    Dr. Shajulin Benedict & Rajesh P.S
+    31st July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/pdf/Webinar25.png"
+
+ 	IT Industry Expectation from Engineering Students
+    Webinar	
+    Dr. Mathew C. D  Dr. Ebin Deni Raj
+    31st July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar23/Webinar"
+
+ 	Simulation of Smart Home using Cisco Packet Tracer
+    Webinar	Dr. Boddepalli SanthiBhushan
+    29th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar24/Webinar"
+
+ 	Data Science & ML: A Learning Journey
+    Webinar	Dr. JAYAKRUSHNA SAHOO,
+    Dr. J. V. BIBAL BENIFA,Dr. BAKKYARAJ T & Dr. EBIN DENI RAJ	
+    28th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar18/Webinar"
+
+ 	AI and Applications using MATLAB
+    Webinar	
+    Dr. T.Bakkyaraj	
+    27th July 2020	
+    Download Brochure="https://www.iiitkottayam.ac.in/#!pdf/home/Webinar21/Webinar"
+
+ 	Cryptography and its Applications
+    Webinar
+    Dr.N.ANNAMALAI,Dr. PANCHAMI.V,Dr. MANJITH B.C & Ms. MAHIMA MARY MATHEWS
+    24th July 2020
+	Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar19/Webinar"
+    
+ 	Beyond 5G & 6G	
+    Webinar	
+    Prof. Dr.Debahuti Mishra (HOD, CSE),Dr. Shatarupa Dash,Dr. Jayakrushna Sahoo & Dr. J V Bibal Benifa	
+    22nd July 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar20/Webinar"
+
+
+ 	Deep Learning	Webinar	
+    Dr. Mathew C. D ,Dr. Jayakrushna Sahoo
+    22nd July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar20/Webinar"
+
+ 	Cryptocurrencies & Blockchain
+    Webinar
+    Dr. Koppala Guravaiah	
+    20th July 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar17/Webinar"
+
+ 	AI- The Key To Scaling Cyber Defence: Systematic Identification, Intelligent Automation, Ability to Action and Use Cases
+    Webinar	
+    Dr.Jayakrushna Sahoo	
+    18th July 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar9/Webinar"
+
+ 	Revolutionizing of Real Estate on Blockchain
+    Webinar	
+    Dr. Jayakrushna Sahoo
+    Dr. J. V. Bibal Benifa
+    17th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar31/Webinar"
+
+ 	HOW TO FORMULATE A HIGH IMPACT PUBLICATION
+    Webinar	
+    Dr. Mathew C D,Dr. Panchami V	
+    16th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar14/Webinar"
+
+ 	Number Theory and Finite Fields in Modern-day Cryptography	
+    Webinar
+    Dr.Bini A A
+    14th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar30/Webinar"
+
+ 	PYNQ- Python Productivity For Zynq	
+    Webinar
+    Dr. Manjith B.C.
+    Dr. Ebin Deni Raj
+    13th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar10/Webinar"
+
+ 	How to become a self-taught programmer
+    Webinar	Dr. P. Victer Paul	
+    10th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/webinar11/webinar"
+
+ 	MULSEMEDIA IN 360 VR
+    Webinar	
+    Dr. J. V. Bibal Benifa	
+    9th July 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/webinar21/webinar"
+
+ 	New Frontiers in Cloud and Edge Computing for Big Data & Internet-of-Things Applications
+    Webinar	Dr. J. V. BibalBenifa Dr. Jayakrushna Sahoo	
+    6th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/webinar20/Webinar"
+
+ 	Industry 4.0 for Discrete Manufacturing	Webinar	
+    Dr. Ebin Deni Raj Dr. Panchami V	
+    6th July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar8/Webinar"
+
+ 	Application Security & OWASP Top 10
+	Webinar	
+    Dr. J. V. Bibal Benifa,Dr. Jayakrushna Sahoo
+    6th July 2020
+	Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar7/Webinar"
+
+ 	Optimal Control for PDEs and Its Applications
+    Webinar
+    Dr. T.Bakkyaraj
+    3rd July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar6/Webinar"
+
+ 	Protection And Privileges Of Women In Work Place
+    Webinar	Dr. Mathew C. D ,Dr. Bini A. A & Dr. Panchami. V
+    1st July 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar4/Webinar"
+
+ 	Recent Trends in Mathematics	
+    Webinar	
+    Dr.N Annamalai
+    29th June 2020
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/home/Webinar5.jpg"
+
+ 	THROUGH AND BEYOND COVID 19: INTEGRATING SOCIAL RESPONSIVENESS AND TECHNOLOGY
+    Webinar
+    Dr. Ebin Deni Raj	
+    23rd June 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar3/Webinar"
+
+ 	Advanced Vehicular Technology for Intelligent Transportation Systems
+    Webinar	
+    Dr.Kala S	
+    24th June 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/#!pdf/home/Webinar2/Webinar"
+
+ 	IoT for Agriculture
+    Webinar	
+    Dr.Kala S	
+    11th June 2020	
+    Download Brochure-"https://www.iiitkottayam.ac.in/data/images/home/webminar.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+webinars conducted
+
+
+
+
+challenges in Industrial IoT & ICS Security	IIIT Kottayam & AIC-IIIT KOTTAYAM FOUNDATION
+Coordinators:
+Dr. Shajulin Benedict
+Mr. Sumit Kumar Saurav	Mr. R.K. SENTHIL KUMAR
+(ASSOCIATE DIRECTOR, RTS & IOT GROUP CDAC, BANGALORE)
+Mr. K. JAGAN MOHAN
+(JOINT DIRECTOR RTS & IOT GROUP CDAC, BANGALORE)
+Mr. RAJESH KALLURI
+(JOINT DIRECTOR RTS & IOT GROUP CDAC, BANGALORE)	
+
+7th Aug 2020	
+
+Remote Sensing and its Applications	IIIT Kottayam & AIC-IIIT KOTTAYAM FOUNDATION
+Coordinator:
+Dr. Shajulin Benedict
+Mr. Basil C Sunny	Ms. REMYA S N
+(SENIOR RESEARCH SCHOLAR
+DIVECHA CENTRE FOR CLIMATE CHANGE (DCCC), INDIAN INSTITUTE OF SCIENCE (IISC) BANGALORE)	5th Aug 2020	
+
+How Small Companies are Making a Big Difference in the Cloud & Emerging	IIIT Kottayam
+Coordinator:
+Dr. Shajulin Benedict
+Rajesh P.S	Mr. NAGESH KUNAMNENI
+(PRESIDENT & CTO, BizCloud Experts, USA)	
+31st July 2020	
+
+
+IT Industry Expectation from Engineering Students	IIIT Kottayam
+Coordinator: Dr. Mathew C. D
+Dr. Ebin Deni Raj	REKHA MATHEWS
+(LEADER-HR, NISSAN DIGITAL, NISSAN MOTOR CORPORATION)	
+31st July 2020	
+
+Simulation of Smart Home using Cisco Packet Tracer	ACM Student Chapter and IEEE Student Branch of IIIT Kottayam
+Coordinator: Dr. Boddepalli SanthiBhushan	Dr. VIJAY KUMAR BOHAT
+(ASSISTANT PROFESSOR, SEAS, BENNETT UNIVERSITY)	
+29th July 2020	

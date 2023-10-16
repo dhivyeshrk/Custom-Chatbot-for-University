@@ -1,0 +1,73 @@
+The payment for the category of DASA admission for btech AI and Datascience will be as follows:-
+
+First Year, First Semester,Tution Fees :Rs 1,20,000/- 
+First Year, First Semester,Hostel/facility :Rs 28,100/-
+First Year, First Semester,Mess Advance:Rs 25,400 /-
+First Year, First Semester,Medical Insurance:Rs 1100/- 
+First Year, First Semester,Mess Equipment Maintanance fee:Nil
+First Year, First Semester,Caution Deposit(One Time Fee): Rs 11,000 /-
+First Year, First Semester,Sports(One time fee):Rs 900 /-
+First Year, First Semester,Mess(One Time fee):Rs 900 /-
+
+First Year, Second Semester,Tution Fees :Rs 1,20,000/- 
+First Year, Second Semester,Hostel/facility :Rs 28,100/-
+First Year, Second Semester,Mess Advance:Rs 25,400 /-
+First Year, Second Semester,Medical Insurance:Rs 1100/- if you already paid in first semster no need to pay again
+First Year, Second Semester,Mess Equipment Maintanance fee:Nil
+First Year, Second Semester,Caution Deposit(One Time Fee): Rs 11,000 /- if you already paid in first semster no need to pay again
+First Year, Second Semester,Sports(One time fee):Rs 900 /-
+First Year, Second Semester,Mess(One Time fee):Rs 900 /-
+
+Second Year, Third Semester,Tution Fees :Rs 1,20,000/- 
+Second Year, Third  Semester,Hostel/facility :Rs 30,900/-
+Second Year, Third  Semester,Mess Advance:Rs 27,950 /-
+Second Year, Third  Semester,Medical Insurance:Rs 1100/-
+Second Year, Third  Semester,Mess Equipment Maintanance fee:250
+Second Year, Third  Semester,Caution Deposit(One Time Fee): nil
+Second Year, Third  Semester,Sports(One time fee):Nil
+Second Year, Third  Semester,Mess(One Time fee):Nil
+
+Second Year, Fourth Semester,Tution Fees :Rs 1,20,000/- 
+Second  Year, Fourth Semester,Hostel/facility :Rs 30,900/-
+Second  Year, Fourth Semester,Mess Advance:Rs 27,950 /-
+Second  Year, Fourth Semester,Medical Insurance:Rs 1100/-if you already paid in third semster no need to pay again
+Second  Year, Fourth Semester,Mess Equipment Maintanance fee:250 if you already paid in third semster no need to pay again
+Second  Year, Fourth Semester,Caution Deposit(One Time Fee):nil
+Second  Year, Fourth Semester,Sports(One time fee):Nil
+Second  Year, Fourth Semester,Mess(One Time fee):Nil
+
+Third Year, Fifth Semester,Tution Fees :Rs 1,20,000/- 
+Third Year, Fifth Semester,Hostel/facility :Rs 34,100/-
+Third  Year, Fifth Semester,Mess Advance:Rs 30,750 /-
+Third  Year, Fifth Semester,Medical Insurance:Rs 1100/-
+Third  Year, Fifth Semester,Mess Equipment Maintanance fee:250
+Third  Year, Fifth Semester,Caution Deposit(One Time Fee):nil
+Third  Year, Fifth Semester,Sports(One time fee):nil
+Third  Year, Fifth Semester,Mess(One Time fee):nil
+
+Third  Year, Sixth Semester,Tution Fees :Rs 1,20,000/- 
+Third  Year, Sixth Semester,Hostel/facility :Rs 34,100/-
+Third  Year, Sixth Semester,Mess Advance:Rs 30,750 /-
+Third  Year, Sixth Semester,Medical Insurance:Rs 1100/-if you already paid in fifth semster no need to pay again
+Third  Year, Sixth Semester,Mess Equipment Maintanance fee:250
+Third  Year, Sixth Semester,Caution Deposit(One Time Fee): nil
+Third  Year, Sixth Semester,Sports(One time fee):nil
+Third  Year, Sixth Semester,Mess(One Time fee):nil
+
+Fourth Year, Seventh Semester,Tution Fees :Rs 1,20,000/- 
+Fourth Year, seventh  Semester,Hostel/facility :Rs 37,500/-
+Fourth Year, seventh  Semester,Mess Advance:Rs 33,825 /-
+Fourth Year, seventh  Semester,Medical Insurance:Rs 1100/-
+Fourth Year, seventh  Semester,Mess Equipment Maintanance fee:250
+Fourth Year, seventh  Semester,Caution Deposit(One Time Fee): Rs 4000/-
+Fourth Year, seventh  Semester,Sports(One time fee):Nil
+Fourth Year, seventh  Semester,Mess(One Time fee):Nil
+
+Fourth Year, Eighth Semester,Tution Fees :Rs 1,20,000/- 
+Fourth  Year, Eighth Semester,Hostel/facility :Rs 37,500/-
+Fourth  Year, Eighth Semester,Mess Advance:Rs 33,825 /-
+Fourth  Year, Eighth Semester,Medical Insurance:Rs 1100/-if you already paid in seventh semster no need to pay again
+Fourth  Year, Eighth Semester,Mess Equipment Maintanance fee:250 if you already paid in seventh semster no need to pay again
+Fourth  Year, Eighth Semester,Caution Deposit(One Time Fee): Rs 4000 /-  if you already paid in seventh semster no need to pay again
+Fourth  Year, Eighth Semester,Sports(One time fee):Nil
+Fourth  Year, Eighth Semester,Mess(One Time fee):Nil

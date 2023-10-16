@@ -1,0 +1,13 @@
+
+Hall of Residence II - Sahyadri Hostel
+Residence 2
+
+1	Dr Ananth A
+	Assistant Warden	Contact No: +91 (0) 482-2202176, 9443318734	Email: ananth@iiitkottayam.ac.in
+2	Dr Riyasudheen TK
+	Assistant Warden	Contact No: +91 (0) 482-2202256, 7561004841	Email:riyasudheen@iiitkottayam.ac.in
+3	Dr Bhanu Chander
+	Assistant Warden	Contact No: +91 (0) 482-2202187, 9629192829	Email: bhanu@iiitkottayam.ac.in
+4	Dr Venkatesh S
+	Assistant Warden	Contact No: +91 (0) 482-2202205,6379116250	Email : svenkatesh@iiitkottayam.ac.in
+Help Desk	0482 2202129

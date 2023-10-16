@@ -1,0 +1,12 @@
+#Requirements for Learn Langchain Pinecone OpenAI
+#pip install -r .\requirements.txt
+pip>=22.0.3
+openai
+langchain
+docx2txt
+streamlit
+chromadb                   
+python-dotenv
+tiktoken
+pypdf
+textloader

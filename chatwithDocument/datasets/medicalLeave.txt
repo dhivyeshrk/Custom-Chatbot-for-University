@@ -1,0 +1,8 @@
+if you want to take a medical leave follow the given steps
+
+first go to the medical room and consult the doctor.
+get diagonsed and recieve the medical certificate from the doctor containing how may days the leave will be assigned.
+
+mail the medical certificate to the concerned faculty and academics too.
+
+Now youre eligible for the medical leave for the taken number of days.

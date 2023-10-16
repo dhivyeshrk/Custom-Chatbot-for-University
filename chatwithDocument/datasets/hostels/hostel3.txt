@@ -1,0 +1,12 @@
+Hall of Residence III - Manimala Hostel
+Residence 3
+
+1	Dr Santhos Kumar
+	Assistant Warden	Contact No: +91 (0) 482-2202177, 8349529678	Email: santhos@iiitkottayam.ac.in
+2	Dr Keshab Nath
+	Assistant Warden	Contact No: +91 (0) 482-2202174, 9508982400	Email: keshabnath@iiitkottayam.ac.in
+3	Dr Rajesh G
+	Assistant Warden	Contact No: +91 (0) 482-2202217, 9400321566	Email: grajesh@iiitkottayam.ac.in
+4	Dr P. Victer Paul
+	Assistant Warden	Contact No: +91 (0) 482-2202165, 8072002752	Email : victerpaul@iiitkottayam.ac.in
+Help Desk	0482 2202123

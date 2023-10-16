@@ -1,0 +1,14 @@
+These are the international mentors of AIC IIIT Kottayam.
+
+
+Dr.Ventsislav Petkov
+
+Data Analyst Engineer
+Telefonica Germany GmBH Germany
+Mentor
+
+Dr.Jorge Cardoso
+
+Chief Architect for Cloud Operations and Analytics
+Huawei Technologies Duesseldorf GmbH Germany
+Mentor
