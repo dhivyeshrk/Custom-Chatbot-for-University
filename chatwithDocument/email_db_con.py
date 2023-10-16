@@ -10,7 +10,7 @@ import sqlite3
 import smtplib
 from email.message import EmailMessage
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 # Set Streamlit page configuration
 st.set_page_config(
