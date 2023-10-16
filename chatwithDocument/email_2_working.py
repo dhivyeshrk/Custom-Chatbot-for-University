@@ -6,14 +6,14 @@ from email.message import EmailMessage
 
 # set your email and password
 # please use App Password
-email_address = "dhivyesh21bcs84@iiitkottayam.ac.in"
-email_password = "jesusloves"
+email_address = ""  #sender email address
+email_password = ""  # sender email password
 
 # create email
 msg = EmailMessage()
 msg['Subject'] = "Email subject"
-msg['From'] = 'dhivyesh.rk@gmail.com'
-msg['To'] = "dhivyesh.rk@gmail.com"
+msg['From'] = ''
+msg['To'] = ""
 msg.set_content("This is email message")
 
 # send email
