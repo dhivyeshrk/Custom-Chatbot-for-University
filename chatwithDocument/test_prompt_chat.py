@@ -1,7 +1,7 @@
 def generate_email_content(subject):
     import openai
 
-    openai.api_key = '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'  # Replace with your actual API key
+    openai.api_key = ''  # Replace with your actual API key
 
     prompt = f"Compose a formal email message regarding {subject}. Avoid using placeholders like [Recipient's Name] or [Mode of Payment]."
     response = openai.ChatCompletion.create(
