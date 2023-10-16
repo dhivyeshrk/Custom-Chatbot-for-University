@@ -16,8 +16,8 @@ import sqlite3
 # def sendEmail(emailidrec, sub, emailidsend = "dhivyesh21bcs84@iiitkottayam.ac.in", generate = False):
 #     import smtplib
 #     from email.message import EmailMessage
-#     email_address = "dhivyesh21bcs84@iiitkottayam.ac.in"
-#     email_password = "jesusloves"
+#     email_address = ""
+#     email_password = ""
 #     msg = EmailMessage()
 #     msg['Subject'] = sub
 #     msg['From'] = emailidrec
@@ -37,7 +37,7 @@ import sqlite3
 def generate_email_content(subject):
     import openai
 
-    openai.api_key = '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'  # Replace with your actual API key
+    openai.api_key = ''  # Replace with your actual API key
 
     prompt = f"Compose a formal email message regarding {subject}. Avoid using placeholders like [Recipient's Name] or [Mode of Payment]."
     response = openai.ChatCompletion.create(
@@ -53,7 +53,7 @@ def generate_email_content(subject):
 def generate_email_subject(subject):
     import openai
 
-    openai.api_key = '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'  # Replace with your actual API key
+    openai.api_key = ''  # Replace with your actual API key
 
     prompt = f"Generate a formal email subject regarding {subject}. Avoid using placeholders like [Recipient's Name] or [Mode of Payment]."
     response = openai.Completion.create(
@@ -68,12 +68,12 @@ def generate_email_subject(subject):
 
 
 
-def sendEmail(emailidrec, sub, emailidsend="dhivyesh21bcs84@iiitkottayam.ac.in", generate=True):
+def sendEmail(emailidrec, sub, emailidsend="", generate=True):
     import smtplib
     from email.message import EmailMessage
 
-    email_address = "dhivyesh21bcs84@iiitkottayam.ac.in"
-    email_password = "jesusloves"
+    email_address = ""
+    email_password = ""
     msg = EmailMessage()
     msg['Subject'] = sub
     msg['From'] = emailidsend
@@ -97,7 +97,7 @@ def sendEmail(emailidrec, sub, emailidsend="dhivyesh21bcs84@iiitkottayam.ac.in",
 
 
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 # Set Streamlit page configuration
 st.set_page_config(
