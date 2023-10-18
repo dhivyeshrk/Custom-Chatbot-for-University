@@ -13,27 +13,6 @@ from email.mime.multipart import MIMEMultipart
 
 import sqlite3
 
-# def sendEmail(emailidrec, sub, emailidsend = "dhivyesh21bcs84@iiitkottayam.ac.in", generate = False):
-#     import smtplib
-#     from email.message import EmailMessage
-#     email_address = ""
-#     email_password = ""
-#     msg = EmailMessage()
-#     msg['Subject'] = sub
-#     msg['From'] = emailidrec
-#     msg['To'] = emailidrec
-#     if(sub == 'MEDICAL_LEAVE.TXT'):
-#         msg.set_content("Greetings Sir, \n this is to inform you about my inability to attend classes owing to. "
-#                         "medical reasons and i want to convey a hello ")
-#     elif(sub == 'leave_form.txt'):
-#         msg.set_content("Greetings Sir, \n this is to inform you about my inability to attend classes owing to emergency reasons.")
-#     try:
-#         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
-#             smtp.login(email_address, email_password)
-#             smtp.send_message(msg)
-#     except:
-#         print()
-
 def generate_email_content(subject):
     import openai
 
