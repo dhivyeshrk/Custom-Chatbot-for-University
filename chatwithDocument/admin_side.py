@@ -97,8 +97,6 @@ if __name__ == "__main__":
     # from dotenv import load_dotenv, find_dotenv
     # load_dotenv(find_dotenv(), override=True)
     os.environ['OPENAI_API_KEY'] = ''
-#'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'
-#'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'
     st.subheader('LLM Question-Answering Application :information_desk_person:')
 
     if 'mobile' in platform.platform().lower():
