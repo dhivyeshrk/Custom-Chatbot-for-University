@@ -12,8 +12,8 @@ subject = st.text_input("Subject:")
 message = st.text_area("Message:")
 
 # Sender's Gmail credentials
-sender_email = 'nived21bcs28@iiitkottayam.ac.in'  # Replace with your Gmail email
-sender_password = 'nithu2003'      # Replace with your Gmail password
+sender_email = ''  # Replace with your Gmail email
+sender_password = ''      # Replace with your Gmail password
 
 # Send email function using SMTP and less secure apps (for testing purposes)
 def send_email(sender_email, sender_password, recipient_email, subject, message):
